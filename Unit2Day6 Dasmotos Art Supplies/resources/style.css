@@ -1,0 +1,37 @@
+/* put picture on background of title*/
+
+/*price divs inline with paragraphs*/
+
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2  {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#BrushesTitle {
+  background-color: mediumspringgreen;
+}
+
+#FramesTitle {
+  background-color: lightcoral;
+}
+#PaintTitle {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
